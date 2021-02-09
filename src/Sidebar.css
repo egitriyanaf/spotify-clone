@@ -9,6 +9,10 @@
     background-color: #040404;
 }
 
+.sidebar>hr {
+    border-color: grey;
+}
+
 .sidebar_logo {
     margin-right: auto;
     height: 70px;
